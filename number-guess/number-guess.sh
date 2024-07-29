@@ -44,3 +44,4 @@ function play() {
 }
 
 play
+clear
